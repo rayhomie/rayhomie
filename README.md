@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=rayhomie&show_icons=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=rayhomie&show_icons=true" alt="logo" height="160" align="left" style="display:block; margin: 5px; margin-bottom: 20px;" /> 
 
-<img src="https://github-profile-trophy.vercel.app/?username=rayhomie&theme=flat&column=7" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=rayhomie&theme=flat&column=7" alt="logo" height="160" align="left" style="display:block; margin: 5px; margin-bottom: 20px;" />
 
 <!--
 **rayhomie/rayhomie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
