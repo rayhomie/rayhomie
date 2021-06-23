@@ -1,8 +1,28 @@
-### Hi there 👋
+### Hi, I'm rayhomie!👋
 
+<div>
+  <a target="_blank" href="https://rayhomie.gitee.io/rayhomieblog/" style="display: inline-flex;">
+    <img align="left" alt="Rain120 | 笔记 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/note.svg" />
+  </a>
+
+  <a target="_blank" href="https://codesandbox.io/u/rayhomie" style="display: inline-flex;">
+    <img align="left" alt="Rain120" | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/codesandbox.svg" />
+  </a>
+  <a target="_blank" href="https://www.zhihu.com/people/rayhomie" style="display: inline-flex;">
+    <img align="left" alt="Rain120 | 知乎 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/zhihu.svg" />
+  </a>
+  <a target="_blank" href="https://juejin.cn/user/4195392104432984" style="display: inline-flex;">
+    <img align="left" alt="Rain120 | 掘金 " width="21px" style="transform: scale(2.5);" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/juejin.svg" />
+  </a>
+  <a target="_blank" href="http://github.com/rayhomie" style="display: inline-flex;">
+    <img align="left" alt="Rain120 | Github | Visitor" src="https://visitor-badge.glitch.me/badge?page_id=rayhomie" />
+  </a>
+</div>
+
+<br />
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=rayhomie&show_icons=true" alt="logo" height="160" align="left" style="display:block; margin: 5px; margin-bottom: 20px;" /> 
 
-<img src="https://github-profile-trophy.vercel.app/?username=rayhomie&theme=flat&column=7" alt="logo" height="160" align="left" style="display:block; margin: 5px; margin-bottom: 20px;" />
 
 <!--
 **rayhomie/rayhomie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
