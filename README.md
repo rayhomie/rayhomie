@@ -4,19 +4,19 @@
 
 <div> 
   <a target="_blank" href="https://www.zhihu.com/people/rayhomie" style="display: inline-flex;">
-    <img align="left" alt="Rayhomie | 知乎 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/zhihu.svg" />
+    <img align="left" alt="Rayhomie | 知乎 " width="21px" src="https://static.zhihu.com/heifetz/favicon.ico" />
   </a>
   <a target="_blank" href="https://rayhomie.gitee.io/rayhomieblog/" style="display: inline-flex;">
     <img align="left" alt="Rayhomie | 笔记 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/note.svg" />
   </a>
   <a target="_blank" href="https://juejin.cn/user/4195392104432984" style="display: inline-flex;">
-    <img align="left" alt="Rayhomie | 掘金 " width="21px" style="transform: scale(2.5);" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/juejin.svg" />
+    <img align="left" alt="Rayhomie | 掘金 " width="21px" style="transform: scale(2.5);" src="https://juejin.cn//favicons/favicon-32x32.png" />
   </a>
   <a target="_blank" href="https://blog.csdn.net/weixin_45221036" style="display: inline-flex;">
     <img align="left" alt="Rayhomie | CSDN " width="21px" src="https://g.csdnimg.cn/static/logo/favicon32.ico" />
   </a>
   <a target="_blank" href="https://codesandbox.io/u/rayhomie" style="display: inline-flex;">
-    <img align="left" alt="Rayhomie" | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/codesandbox.svg" />
+    <img align="left" alt="Rayhomie" | CodeSandbox" width="21px" src="https://codesandbox.io/favicon.ico" />
   </a>
   <a target="_blank" href="http://github.com/rayhomie" style="display: inline-flex;">
     <img align="left" alt="Rayhomie | Github | Visitor" src="https://visitor-badge.glitch.me/badge?page_id=rayhomie" />
