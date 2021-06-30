@@ -18,9 +18,6 @@
   <a target="_blank" href="https://codesandbox.io/u/rayhomie" style="display: inline-flex;">
     <img align="left" alt="Rayhomie" | CodeSandbox" width="24px" src="https://codesandbox.io/favicon.ico" />
   </a>
-  <a target="_blank" href="http://github.com/rayhomie" style="display: inline-flex;">
-    <img align="left" alt="Rayhomie | Github | Visitor" src="https://visitor-badge.glitch.me/badge?page_id=rayhomie" />
-  </a>
 </div>
 
 <br />
