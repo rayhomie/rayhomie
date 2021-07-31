@@ -1,6 +1,6 @@
 ### Hi, I'm rayhomie!👋
 
-一个喜欢折腾的前端。
+一个喜欢折腾的小前端。
 
 <div> 
   <a target="_blank" href="https://rayhomie.gitee.io/rayhomieblog/" style="display: inline-flex;">
