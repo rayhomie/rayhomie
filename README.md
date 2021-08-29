@@ -40,7 +40,7 @@
 
 - [alibaba/hooks](alibaba/hooks ) (contribution for a part of test case & document )
 
-- [rayhomie.github.io](https://github.com/rayhomie/rayhomie.github.io)
+- [rayhomie.github.io](https://rayhomie.gitee.io/rayhomieblog/)
 
 
 
