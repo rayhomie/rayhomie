@@ -1,4 +1,4 @@
-## Hi, I'm rayhomie!👋
+### Hi, I'm rayhomie!👋
 
 一个喜欢折腾的小前端。
 
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-## Major open source projects:
+### Major open source projects:
 
 - [react-qq-music](https://github.com/rayhomie/react-qq-music)
 
