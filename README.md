@@ -25,17 +25,21 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rayhomie&show_icons=true" alt="logo" height="160" align="left" style="display:block; margin: 5px; margin-bottom: 20px;" /> 
 
 
-<!--
-**rayhomie/rayhomie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Major open source projects: **
 
-Here are some ideas to get you started:
+- [react-qq-music](https://github.com/rayhomie/react-qq-music)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [osser](https://github.com/rayhomie/osser)
+
+- [rayhomieui](https://github.com/rayhomie/rayhomieui)
+
+- [personal-finance](https://github.com/rayhomie/personal-finance) (alias: 晓财App)
+
+- [eugoods](https://github.com/rayhomie/Eugoods) (alias: 西柚美物)
+
+- [alibaba/hooks](alibaba/hooks ) (contribution for a part of test case & document )
+
+- [rayhomie.github.io](https://github.com/rayhomie/rayhomie.github.io)
+
+
+
