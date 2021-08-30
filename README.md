@@ -13,7 +13,7 @@
     <img align="left" alt="Rayhomie | CSDN " width="21px" src="https://g.csdnimg.cn/static/logo/favicon32.ico" />
   </a>
   <a target="_blank" href="https://juejin.cn/user/4195392104432984" style="display: inline-flex;">
-    <img align="left" alt="Rayhomie | 掘金 " width="21px" style="transform: scale(2.5);" src="https://juejin.cn//favicons/favicon-32x32.png" />
+    <img align="left" alt="Rayhomie | 掘金 " width="21px" style="transform: scale(2.5);" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-32x32.png" />
   </a>
   <a target="_blank" href="https://codesandbox.io/u/rayhomie" style="display: inline-flex;">
     <img align="left" alt="Rayhomie" | CodeSandbox" width="24px" src="https://codesandbox.io/favicon.ico" />
