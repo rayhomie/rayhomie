@@ -40,7 +40,7 @@
 
 - [eugoods](https://github.com/rayhomie/Eugoods) (alias: 西柚美物)
 
-- [alibaba/hooks](alibaba/hooks ) (contribution for a part of test case & document )
+- [alibaba/hooks](https://github.com/alibaba/hooks) (contribution for a part of test case & document )
 
 - ...
 
