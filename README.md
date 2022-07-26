@@ -24,23 +24,3 @@
                                                                                                          
 <img src="https://github-readme-stats.vercel.app/api?username=rayhomie&show_icons=true" alt="logo" height="160" align="left" style="display:block; margin: 5px; margin-bottom: 20px;" /> 
 
-<br /><br /><br /><br /><br /><br /><br /><br />
-
-### Major open source projects:
-
-- [react-qq-music](https://github.com/rayhomie/react-qq-music)
-
-- [osser](https://github.com/rayhomie/osser)
-
-- [rayhomieui](https://github.com/rayhomie/rayhomieui)
-
-- [rayhomie.github.io](https://rayhomie.gitee.io/rayhomieblog/)
-
-- [personal-finance](https://github.com/rayhomie/personal-finance) (alias: 晓财App)
-
-- [eugoods](https://github.com/rayhomie/Eugoods) (alias: 西柚美物)
-
-- [alibaba/hooks](https://github.com/alibaba/hooks) (contributor)
-
-- ...
-
