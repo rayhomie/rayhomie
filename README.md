@@ -1,7 +1,5 @@
 ### Hi, I'm rayhomie!👋
 
-一个喜欢折腾的小前端。
-
 <div> 
   <a target="_blank" href="https://rayhomie.gitee.io/rayhomieblog/" style="display: inline-flex;">
     <img align="left" alt="Rayhomie | 笔记 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/note.svg" />
